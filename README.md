@@ -11,3 +11,11 @@
 - Utilize advanced statistical techniques to analyze performance metrics to determine the most accurate and fair scoring methodology, improving accuracy in scoring by 15%
 - Conduct thorough data cleaning, analysis, and presentation
 - Collaborate with event organizer to gather feedback and iteratively refine the scoring system for optimal accuracy and transparency
+
+**Tutor @ Varsity Tutors (September 2023 - Present)**
+- Conduct one-on-one or group tutoring sessions in AP Biology, R programming, and C++/Computer Science
+- Create customized lesson plans to address the unique learning needs of each student, leading to an average increase in students’ grades by 8%
+
+## Projects
+**
+
