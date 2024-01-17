@@ -17,5 +17,11 @@
 - Create customized lesson plans to address the unique learning needs of each student, leading to an average increase in students’ grades by 8%
 
 ## Projects
-**
+### [Investigation of Social Media on Mental Health](https://github.com/akcone2003/Social-Media-And-Mental-Health)
+- Conducted thorough cleaning and exploratory data analysis (EDA) to uncover patterns, correlations, and outliers in data
+- Built KMeans Clustering Model to uncover data structure and extract insights
+- Performed various statistical tests including One-Way ANOVAs and Regression Analysis
+
+
+
 
