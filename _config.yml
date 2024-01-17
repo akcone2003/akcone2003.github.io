@@ -3,7 +3,4 @@ logo: headshot.png
 show_downloads: false
 theme: jekyll-theme-minimal
 
-resume_social_links:
-  resume_url: https://personalmicrosoftsoftware0-my.sharepoint.com/:w:/g/personal/acone5_personalmicrosoftsoftware_ucla_edu/EeISEbGH3VFJp4vBCk8LX1IBESN62lGSFYRyJG0QzvQxVA?e=PXGG2n
-  resume_linkedin_url: https://www.linkedin.com/in/aidan-cone-28bb77212/
-  resume_github_url: https://github.com/akcone2003
+linkedin_username: https://www.linkedin.com/in/aidan-cone-28bb77212/
